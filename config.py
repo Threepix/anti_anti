@@ -1,0 +1,7 @@
+TOKEN = "5317621358:AAFh2MgP2K6Hdz5QKxb0fmEdMV1IXvjoK2g"
+
+CHANNEL_URL = "https://t.me/pepefrog_1"
+CHANNEL_ID  = "@pepefrog_1"
+CHAT_ID = "625262155"
+
+ADMIN_ID = "2103541063"
