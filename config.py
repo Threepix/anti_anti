@@ -1,4 +1,4 @@
-TOKEN = "5317621358:AAFh2MgP2K6Hdz5QKxb0fmEdMV1IXvjoK2g"
+TOKEN = "************************************"
 
 CHANNEL_URL = "https://t.me/pepefrog_1"
 CHANNEL_ID  = "@pepefrog_1"
